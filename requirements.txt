@@ -1,0 +1,7 @@
+pandas
+yfinance
+scikit-learn
+numpy
+matplotlib
+alpha_vantage
+Flask
